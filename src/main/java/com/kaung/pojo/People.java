@@ -2,6 +2,7 @@ package com.kaung.pojo;
 //实体类：我们一般都是和数据库中的表结构一一对应
 public class People {
     private int id;
+    
     private String name;
     private int age;
     private String address;
